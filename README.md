@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhantl
-- 👀 I’m interested in Java and Integration with Mule 3.8.1 CE
+- 👀 I’m interested in Java and Integration with Mule 3.8.9 CE
 - 🌱 I’m currently attending at Udemy courses for CI/CD and Security
 - 💞️ I’m not looking to collaborate on ...?
 - 📫 How to reach me ? -> linkedin
